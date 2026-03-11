@@ -2,6 +2,7 @@
 # 🎞️ YT2MP - YouTube To MP3/4
 [![image](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
+[![FFmpeg](https://img.shields.io/badge/FFMPEG-%233e9242.svg?style=for-the-badge&logo=FFmpeg&logoColor=ffffff)](https://www.ffmpeg.org/)
 
 Youtube video extractor to either MP3 or MP4 format.
 
